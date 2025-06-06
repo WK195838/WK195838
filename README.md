@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @WK195838 walter kao
-- 👀 I’m interested in AS400 RPG programming on GitHub Copilot.
-- 🌱 I’m currently learning GitHub version contorl.
-- 💞️ I’m looking to collaborate on Copilot for AS400 RPG programming.
+- 👋 Hi, 泛太資訊知識庫
+- 👀 建立以GitHub 為主要放置所有文件的總倉庫.
+- 🌱 1.程式原始碼與規格書。
+- 💞️ 2.文件資料庫
 - 📫 How to reach me to development RPG Copilot.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
