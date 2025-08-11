@@ -1,6 +1,8 @@
 ## Hi, 泛太資訊知識庫##
 ## 建立以GitHub 為主要放置所有文件的總倉庫.
 ### 1.程式原始碼與規格書。
+#### 1.1 RPG Source code - DDS，CLP，RPG。
+#### 1.2 COBOL Source code - DDS，CLP，CBL。
 ### 2.文件資料庫 
 ### 3.圖像、語音與多媒體資料 
 ### 4.透過Tag建立RAG的知識庫 
